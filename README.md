@@ -1,5 +1,5 @@
 # Manik-Ecom-Dashboard
-## E-Shop Sales Analytics 
+## E-Shop Sales Analysis 
 Analyzed e-commerce sales data to identify customer behavior, product performance, and revenue trends. Built interactive dashboards to support data-driven decision making.
 
 <img width="1165" height="656" alt="Dashboard_Image" src="https://github.com/user-attachments/assets/ce1ed01c-7c58-4521-acf8-1ab62060d187" />
